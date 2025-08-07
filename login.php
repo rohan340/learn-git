@@ -1,2 +1,2 @@
 <%php
-echo "Login Page";
+echo "Login Pages";
